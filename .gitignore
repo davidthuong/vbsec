@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# vbsec runtime tmp (when scanning user repos)
+.vbsec-tmp/
+
+# Source repo used for porting rules (not part of public vbsec)
+sepay-wiki-bot/
+
+# Plans / WIP notes
+.claude/plans/
